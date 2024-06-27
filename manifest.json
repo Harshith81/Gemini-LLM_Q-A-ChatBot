@@ -1,0 +1,15 @@
+{
+	"manifest_version": 3,
+	"name": "Gemini Q & A ChatBot",
+	"version": "1.0",
+	"description": "This model will try to answer anything you ask, it works similar to google i.e you ask it about anything and it will give the response in text format in detail.  ",
+	"permissions": [
+		"activeTab"
+	],
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": {
+			"16": "favicon-16x16.png"
+		}
+	}
+}
